@@ -1,0 +1,14 @@
+C:\Users\rizwan\source\repos\POSSystem\POSSystem\bin\Debug\POSSystem.exe.config
+C:\Users\rizwan\source\repos\POSSystem\POSSystem\bin\Debug\POSSystem.exe
+C:\Users\rizwan\source\repos\POSSystem\POSSystem\bin\Debug\POSSystem.pdb
+C:\Users\rizwan\source\repos\POSSystem\POSSystem\obj\Debug\POSSystem.csproj.AssemblyReference.cache
+C:\Users\rizwan\source\repos\POSSystem\POSSystem\obj\Debug\POSSystem.Form1.resources
+C:\Users\rizwan\source\repos\POSSystem\POSSystem\obj\Debug\POSSystem.Properties.Resources.resources
+C:\Users\rizwan\source\repos\POSSystem\POSSystem\obj\Debug\POSSystem.csproj.GenerateResource.cache
+C:\Users\rizwan\source\repos\POSSystem\POSSystem\obj\Debug\POSSystem.csproj.CoreCompileInputs.cache
+C:\Users\rizwan\source\repos\POSSystem\POSSystem\obj\Debug\POSSystem.exe
+C:\Users\rizwan\source\repos\POSSystem\POSSystem\obj\Debug\POSSystem.pdb
+C:\Users\rizwan\source\repos\POSSystem\POSSystem\obj\Debug\POSSystem.frmAdminDashboard.resources
+C:\Users\rizwan\source\repos\POSSystem\POSSystem\obj\Debug\POSSystem.frmSaleDashboard.resources
+C:\Users\rizwan\source\repos\POSSystem\POSSystem\obj\Debug\POSSystem.frmAddCat.resources
+C:\Users\rizwan\source\repos\POSSystem\POSSystem\obj\Debug\POSSystem.frmAddPro.resources
